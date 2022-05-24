@@ -1,0 +1,33 @@
+sprites.png
+size: 85, 21
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WindDown
+  rotate: false
+  xy: 0, 0
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+WindLeft
+  rotate: false
+  xy: 21, 0
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+WindRight
+  rotate: false
+  xy: 41, 0
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+WindUp
+  rotate: false
+  xy: 61, 0
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
